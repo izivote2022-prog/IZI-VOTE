@@ -1,0 +1,758 @@
+{
+  "electionId": "elec_010_3548ab",
+  "instanceNumber": 10,
+  "electionName": "IZI 2027-2028 MAKAI DING KI TEL NA",
+  "mode": "TEST",
+  "currentState": "DRAFT",
+  "createdAt": "2026-10-06T07:19:59.754Z",
+  "updatedAt": "2026-10-06T07:46:20.035Z",
+  "settings": {
+    "electionName": "IZI 2027-2028 MAKAI DING KI TEL NA",
+    "organizationName": "IZI Community Organization",
+    "allowPublicLiveResults": false,
+    "strictDuplicateProtection": true,
+    "adminEmail": "izivote.2022@gmail.com",
+    "votingRuleDescription": "Each voter selects exactly 2 candidates."
+  },
+  "candidates": [
+    {
+      "id": "cand_a_01",
+      "name": "Pa. Pau Lam Lian",
+      "group": "GROUP_A",
+      "status": "ACTIVE",
+      "orderIndex": 1,
+      "createdAt": "2026-10-06T07:19:59.754Z",
+      "updatedAt": "2026-10-06T07:19:59.754Z"
+    },
+    {
+      "id": "cand_a_02",
+      "name": "Pa. Gin Neng Tuang",
+      "group": "GROUP_A",
+      "status": "ACTIVE",
+      "orderIndex": 2,
+      "createdAt": "2026-10-06T07:19:59.754Z",
+      "updatedAt": "2026-10-06T07:19:59.754Z"
+    },
+    {
+      "id": "cand_a_03",
+      "name": "Pa. Pau Dal Sing",
+      "group": "GROUP_A",
+      "status": "ACTIVE",
+      "orderIndex": 3,
+      "createdAt": "2026-10-06T07:19:59.754Z",
+      "updatedAt": "2026-10-06T07:19:59.754Z"
+    },
+    {
+      "id": "cand_a_04",
+      "name": "Pa. Tuan Kim Khai",
+      "group": "GROUP_A",
+      "status": "ACTIVE",
+      "orderIndex": 4,
+      "createdAt": "2026-10-06T07:19:59.754Z",
+      "updatedAt": "2026-10-06T07:19:59.754Z"
+    },
+    {
+      "id": "cand_a_05",
+      "name": "Pa. Kam Khan Khual",
+      "group": "GROUP_A",
+      "status": "ACTIVE",
+      "orderIndex": 5,
+      "createdAt": "2026-10-06T07:19:59.754Z",
+      "updatedAt": "2026-10-06T07:19:59.754Z"
+    },
+    {
+      "id": "cand_a_06",
+      "name": "Pa. Suan Than Sang",
+      "group": "GROUP_A",
+      "status": "ACTIVE",
+      "orderIndex": 6,
+      "createdAt": "2026-10-06T07:19:59.754Z",
+      "updatedAt": "2026-10-06T07:19:59.754Z"
+    },
+    {
+      "id": "cand_a_07",
+      "name": "Pa. Lian Zo Mung",
+      "group": "GROUP_A",
+      "status": "ACTIVE",
+      "orderIndex": 7,
+      "createdAt": "2026-10-06T07:19:59.754Z",
+      "updatedAt": "2026-10-06T07:19:59.754Z"
+    },
+    {
+      "id": "cand_a_08",
+      "name": "Pa. Dal Thian Thang",
+      "group": "GROUP_A",
+      "status": "ACTIVE",
+      "orderIndex": 8,
+      "createdAt": "2026-10-06T07:19:59.754Z",
+      "updatedAt": "2026-10-06T07:19:59.754Z"
+    },
+    {
+      "id": "cand_a_09",
+      "name": "Pa. Lam Khup",
+      "group": "GROUP_A",
+      "status": "ACTIVE",
+      "orderIndex": 9,
+      "createdAt": "2026-10-06T07:19:59.754Z",
+      "updatedAt": "2026-10-06T07:19:59.754Z"
+    },
+    {
+      "id": "cand_a_10",
+      "name": "Pa. Pau Kim Khai",
+      "group": "GROUP_A",
+      "status": "ACTIVE",
+      "orderIndex": 10,
+      "createdAt": "2026-10-06T07:19:59.754Z",
+      "updatedAt": "2026-10-06T07:19:59.754Z"
+    },
+    {
+      "id": "cand_b_01",
+      "name": "Pa. Piang Khan Mung (Pa. Piang)",
+      "group": "GROUP_B",
+      "status": "ACTIVE",
+      "orderIndex": 1,
+      "createdAt": "2026-10-06T07:19:59.754Z",
+      "updatedAt": "2026-10-06T07:19:59.754Z"
+    },
+    {
+      "id": "cand_b_02",
+      "name": "Pa. Cin Lam Khai (Cia Khai)",
+      "group": "GROUP_B",
+      "status": "ACTIVE",
+      "orderIndex": 2,
+      "createdAt": "2026-10-06T07:19:59.754Z",
+      "updatedAt": "2026-10-06T07:19:59.754Z"
+    },
+    {
+      "id": "cand_b_03",
+      "name": "Pa. Dal Sian Piang",
+      "group": "GROUP_B",
+      "status": "ACTIVE",
+      "orderIndex": 3,
+      "createdAt": "2026-10-06T07:19:59.754Z",
+      "updatedAt": "2026-10-06T07:19:59.754Z"
+    },
+    {
+      "id": "cand_b_04",
+      "name": "Pa. Kham Kim Thang (Thang No)",
+      "group": "GROUP_B",
+      "status": "ACTIVE",
+      "orderIndex": 4,
+      "createdAt": "2026-10-06T07:19:59.754Z",
+      "updatedAt": "2026-10-06T07:19:59.754Z"
+    },
+    {
+      "id": "cand_b_05",
+      "name": "Pa. Kham Kap Mang",
+      "group": "GROUP_B",
+      "status": "ACTIVE",
+      "orderIndex": 5,
+      "createdAt": "2026-10-06T07:19:59.754Z",
+      "updatedAt": "2026-10-06T07:19:59.754Z"
+    },
+    {
+      "id": "cand_b_06",
+      "name": "Tg. Pau Deih Tung",
+      "group": "GROUP_B",
+      "status": "ACTIVE",
+      "orderIndex": 6,
+      "createdAt": "2026-10-06T07:19:59.754Z",
+      "updatedAt": "2026-10-06T07:19:59.754Z"
+    },
+    {
+      "id": "cand_b_07",
+      "name": "Pa. Khen Suan Mung",
+      "group": "GROUP_B",
+      "status": "ACTIVE",
+      "orderIndex": 7,
+      "createdAt": "2026-10-06T07:19:59.754Z",
+      "updatedAt": "2026-10-06T07:19:59.754Z"
+    },
+    {
+      "id": "cand_b_08",
+      "name": "Pa. Khup Lam Kim",
+      "group": "GROUP_B",
+      "status": "ACTIVE",
+      "orderIndex": 8,
+      "createdAt": "2026-10-06T07:19:59.754Z",
+      "updatedAt": "2026-10-06T07:19:59.754Z"
+    },
+    {
+      "id": "cand_b_09",
+      "name": "Pa. Khai Cin Pau (Ploto Zam)",
+      "group": "GROUP_B",
+      "status": "ACTIVE",
+      "orderIndex": 9,
+      "createdAt": "2026-10-06T07:19:59.754Z",
+      "updatedAt": "2026-10-06T07:19:59.754Z"
+    },
+    {
+      "id": "cand_b_10",
+      "name": "Pa. Thang Khan Piang",
+      "group": "GROUP_B",
+      "status": "ACTIVE",
+      "orderIndex": 10,
+      "createdAt": "2026-10-06T07:19:59.754Z",
+      "updatedAt": "2026-10-06T07:19:59.754Z"
+    },
+    {
+      "id": "cand_b_11",
+      "name": "Pa. Thang Lam Kham",
+      "group": "GROUP_B",
+      "status": "ACTIVE",
+      "orderIndex": 11,
+      "createdAt": "2026-10-06T07:19:59.754Z",
+      "updatedAt": "2026-10-06T07:19:59.754Z"
+    },
+    {
+      "id": "cand_b_12",
+      "name": "Pa. Song Kim Mung",
+      "group": "GROUP_B",
+      "status": "ACTIVE",
+      "orderIndex": 12,
+      "createdAt": "2026-10-06T07:19:59.754Z",
+      "updatedAt": "2026-10-06T07:19:59.754Z"
+    },
+    {
+      "id": "cand_b_13",
+      "name": "Pa. Zam Khen Khup",
+      "group": "GROUP_B",
+      "status": "ACTIVE",
+      "orderIndex": 13,
+      "createdAt": "2026-10-06T07:19:59.754Z",
+      "updatedAt": "2026-10-06T07:19:59.754Z"
+    },
+    {
+      "id": "cand_b_14",
+      "name": "Pa. Hang Khan Khual",
+      "group": "GROUP_B",
+      "status": "ACTIVE",
+      "orderIndex": 14,
+      "createdAt": "2026-10-06T07:19:59.754Z",
+      "updatedAt": "2026-10-06T07:19:59.754Z"
+    },
+    {
+      "id": "cand_b_15",
+      "name": "Pa. Zam Gawh Lian",
+      "group": "GROUP_B",
+      "status": "ACTIVE",
+      "orderIndex": 15,
+      "createdAt": "2026-10-06T07:19:59.754Z",
+      "updatedAt": "2026-10-06T07:19:59.754Z"
+    },
+    {
+      "id": "cand_b_16",
+      "name": "Pa. Suan Gin Pau",
+      "group": "GROUP_B",
+      "status": "ACTIVE",
+      "orderIndex": 16,
+      "createdAt": "2026-10-06T07:19:59.754Z",
+      "updatedAt": "2026-10-06T07:19:59.754Z"
+    }
+  ],
+  "rounds": {
+    "ROUND_1": {
+      "id": "ROUND_1",
+      "title": "IZI Makai Pi",
+      "description": "Election for IZI Makai Pi among eligible Group A candidates. Each voter selects exactly 2 candidates.",
+      "eligibleCandidateIds": [
+        "cand_a_01",
+        "cand_a_02",
+        "cand_a_03",
+        "cand_a_04",
+        "cand_a_05",
+        "cand_a_06",
+        "cand_a_07",
+        "cand_a_08",
+        "cand_a_09",
+        "cand_a_10"
+      ],
+      "maxSelectionsPerVoter": 2,
+      "isOpened": false,
+      "isClosed": false,
+      "isFinalized": false,
+      "ballotsCast": 0,
+      "totalSelections": 0,
+      "totalVotes": 0,
+      "hasTie": false,
+      "tieStatus": "NONE",
+      "electedPosition": "IZI Makai Pi",
+      "isTokenBatchLocked": false,
+      "tieResolutionDetails": {
+        "resolvedAt": "2026-10-06T07:45:51.710Z",
+        "resolvedBy": "test_admin",
+        "method": "COMMITTEE_DRAW",
+        "chosenWinnerId": "cand_a_01",
+        "notes": "Official committee public drawing witnessed by election monitors"
+      }
+    },
+    "ROUND_2": {
+      "id": "ROUND_2",
+      "title": "Genvai Tanu Pi",
+      "description": "Election for Genvai Tanu Pi among remaining Group A candidates. Each voter selects exactly 2 candidates.",
+      "eligibleCandidateIds": [],
+      "maxSelectionsPerVoter": 2,
+      "isOpened": false,
+      "isClosed": false,
+      "isFinalized": false,
+      "ballotsCast": 0,
+      "totalSelections": 0,
+      "totalVotes": 0,
+      "hasTie": false,
+      "tieStatus": "NONE",
+      "electedPosition": "Genvai Tanu Pi",
+      "isTokenBatchLocked": false
+    },
+    "FINAL_ROUND": {
+      "id": "FINAL_ROUND",
+      "title": "Final Election - Community Leadership & Officers",
+      "description": "Final voting for top 7 officer positions among consolidated 24 candidates. Each voter selects exactly 2 candidates.",
+      "eligibleCandidateIds": [],
+      "maxSelectionsPerVoter": 2,
+      "isOpened": false,
+      "isClosed": false,
+      "isFinalized": false,
+      "ballotsCast": 0,
+      "totalSelections": 0,
+      "totalVotes": 0,
+      "hasTie": false,
+      "tieStatus": "NONE",
+      "isTokenBatchLocked": false
+    }
+  },
+  "ballots": [],
+  "votes": [],
+  "tokens": [],
+  "auditLogs": [
+    {
+      "id": "audit_genesis",
+      "timestamp": "2026-10-06T07:19:59.754Z",
+      "adminUser": "System",
+      "action": "IZI 2027-2028 MAKAI DING KI TEL NA Instance #10 Initialized (TEST Mode)",
+      "stateBefore": "DRAFT",
+      "stateAfter": "DRAFT",
+      "metadata": {
+        "instanceNumber": 10,
+        "mode": "TEST",
+        "initialGroupACount": 10,
+        "initialGroupBCount": 16,
+        "votingRule": "Each voter selects exactly 2 candidates"
+      },
+      "entryHash": "c80cb52734dd4c085430150337f0e30748d38075dfb8f110867cc8c7bf0ada5a",
+      "previousEntryHash": "0000000000000000000000000000000000000000000000000000000000000000"
+    },
+    {
+      "id": "audit_1791271199754_0c7aaa",
+      "timestamp": "2026-10-06T07:19:59.754Z",
+      "adminUser": "admin",
+      "action": "Election Reset to Default State",
+      "stateBefore": "DRAFT",
+      "stateAfter": "DRAFT",
+      "metadata": {
+        "instanceNumber": 10
+      },
+      "previousEntryHash": "c80cb52734dd4c085430150337f0e30748d38075dfb8f110867cc8c7bf0ada5a",
+      "entryHash": "7f494eccfe376e0ef77d6d49e08bebc30ab4298df5d82ce5344bdfeeeac92960"
+    },
+    {
+      "id": "audit_1791271683663_84ce8b",
+      "timestamp": "2026-10-06T07:28:03.664Z",
+      "adminUser": "admin",
+      "action": "State transitioned to ROUND_1_OPEN",
+      "stateBefore": "DRAFT",
+      "stateAfter": "ROUND_1_OPEN",
+      "previousEntryHash": "7f494eccfe376e0ef77d6d49e08bebc30ab4298df5d82ce5344bdfeeeac92960",
+      "entryHash": "5aa77588d162dbd9253465b3dd550ff823fb58d73682f6076e1f68297d20cdde"
+    },
+    {
+      "id": "audit_1791271789757_cdcddf",
+      "timestamp": "2026-10-06T07:29:49.757Z",
+      "adminUser": "admin",
+      "action": "State transitioned to ROUND_1_CLOSED",
+      "stateBefore": "ROUND_1_OPEN",
+      "stateAfter": "ROUND_1_CLOSED",
+      "previousEntryHash": "5aa77588d162dbd9253465b3dd550ff823fb58d73682f6076e1f68297d20cdde",
+      "entryHash": "592c489db32303a9c41ee949caae14ea265a727b23d21ec9416b70ba6d029731"
+    },
+    {
+      "id": "audit_1791272045269_095271",
+      "timestamp": "2026-10-06T07:34:05.269Z",
+      "adminUser": "admin",
+      "action": "ROUND_RESET",
+      "stateBefore": "ROUND_1_CLOSED",
+      "stateAfter": "DRAFT",
+      "affectedRound": "ROUND_1",
+      "metadata": {
+        "round": "ROUND_1",
+        "reason": "Testing round 1 reset flow",
+        "ballotsAffected": 0,
+        "tokensAffected": 0,
+        "candidatePoolCount": 10,
+        "previousState": "ROUND_1_CLOSED",
+        "newState": "DRAFT",
+        "timestamp": "2026-10-06T07:34:05.269Z"
+      },
+      "previousEntryHash": "592c489db32303a9c41ee949caae14ea265a727b23d21ec9416b70ba6d029731",
+      "entryHash": "b010d60769ab87274264b89a213230014bd1fd0c4dd257b2548b74b63e0781ed"
+    },
+    {
+      "id": "audit_1791272566928_3d8be7",
+      "timestamp": "2026-10-06T07:42:46.928Z",
+      "adminUser": "test_admin",
+      "action": "ROUND_RESET",
+      "stateBefore": "DRAFT",
+      "stateAfter": "DRAFT",
+      "affectedRound": "ROUND_1",
+      "metadata": {
+        "round": "ROUND_1",
+        "reason": "Valid administrator reset test verification",
+        "ballotsAffected": 0,
+        "tokensAffected": 0,
+        "candidatePoolCount": 10,
+        "previousState": "DRAFT",
+        "newState": "DRAFT",
+        "timestamp": "2026-10-06T07:42:46.928Z"
+      },
+      "previousEntryHash": "b010d60769ab87274264b89a213230014bd1fd0c4dd257b2548b74b63e0781ed",
+      "entryHash": "3f0f5250baca5463fb1eed3910c09e0f6fc18258e953c4631caaa43ee0f4e4d3"
+    },
+    {
+      "id": "audit_1791272566934_51690c",
+      "timestamp": "2026-10-06T07:42:46.934Z",
+      "adminUser": "test_admin",
+      "action": "ROUND_RESET",
+      "stateBefore": "DRAFT",
+      "stateAfter": "DRAFT",
+      "affectedRound": "ROUND_1",
+      "metadata": {
+        "round": "ROUND_1",
+        "reason": "Testing Round 1 isolation",
+        "ballotsAffected": 0,
+        "tokensAffected": 0,
+        "candidatePoolCount": 10,
+        "previousState": "DRAFT",
+        "newState": "DRAFT",
+        "timestamp": "2026-10-06T07:42:46.934Z"
+      },
+      "previousEntryHash": "3f0f5250baca5463fb1eed3910c09e0f6fc18258e953c4631caaa43ee0f4e4d3",
+      "entryHash": "79a6a18155eb60621bc5ed97e472743ca3494601dbcf1ac471aaee1a1b661bb6"
+    },
+    {
+      "id": "audit_1791272623251_6fca51",
+      "timestamp": "2026-10-06T07:43:43.251Z",
+      "adminUser": "test_admin",
+      "action": "ROUND_RESET",
+      "stateBefore": "DRAFT",
+      "stateAfter": "DRAFT",
+      "affectedRound": "ROUND_1",
+      "metadata": {
+        "round": "ROUND_1",
+        "reason": "Valid administrator reset test verification",
+        "ballotsAffected": 0,
+        "tokensAffected": 0,
+        "candidatePoolCount": 10,
+        "previousState": "DRAFT",
+        "newState": "DRAFT",
+        "timestamp": "2026-10-06T07:43:43.250Z"
+      },
+      "previousEntryHash": "79a6a18155eb60621bc5ed97e472743ca3494601dbcf1ac471aaee1a1b661bb6",
+      "entryHash": "59367bc20140217f2c732477486d862518e7e7eede321d02c8cf791212aa219b"
+    },
+    {
+      "id": "audit_1791272623259_509f5e",
+      "timestamp": "2026-10-06T07:43:43.259Z",
+      "adminUser": "test_admin",
+      "action": "ROUND_RESET",
+      "stateBefore": "DRAFT",
+      "stateAfter": "DRAFT",
+      "affectedRound": "ROUND_1",
+      "metadata": {
+        "round": "ROUND_1",
+        "reason": "Testing Round 1 isolation",
+        "ballotsAffected": 0,
+        "tokensAffected": 0,
+        "candidatePoolCount": 10,
+        "previousState": "DRAFT",
+        "newState": "DRAFT",
+        "timestamp": "2026-10-06T07:43:43.259Z"
+      },
+      "previousEntryHash": "59367bc20140217f2c732477486d862518e7e7eede321d02c8cf791212aa219b",
+      "entryHash": "3fd38e0bc2a0ffb26e6476a41d477791a59093ed484a1afb74012f2a3aa0e10a"
+    },
+    {
+      "id": "audit_1791272623262_56b8ff",
+      "timestamp": "2026-10-06T07:43:43.262Z",
+      "adminUser": "test_admin",
+      "action": "Tie Resolved for IZI Makai Pi",
+      "stateBefore": "DRAFT",
+      "stateAfter": "DRAFT",
+      "affectedCandidateId": "cand_a_01",
+      "affectedCandidateName": "Pa. Pau Lam Lian",
+      "affectedRound": "ROUND_1",
+      "metadata": {
+        "method": "COMMITTEE_DRAW",
+        "notes": "Official committee public drawing witnessed by election monitors",
+        "tiedCandidates": [
+          "cand_a_01",
+          "cand_a_02"
+        ]
+      },
+      "previousEntryHash": "3fd38e0bc2a0ffb26e6476a41d477791a59093ed484a1afb74012f2a3aa0e10a",
+      "entryHash": "8ac53d23dadea380347112f9375cc806c6a63f95685dc5022c8aac097055725b"
+    },
+    {
+      "id": "audit_1791272655547_7cb437",
+      "timestamp": "2026-10-06T07:44:15.547Z",
+      "adminUser": "test_admin",
+      "action": "ROUND_RESET",
+      "stateBefore": "DRAFT",
+      "stateAfter": "DRAFT",
+      "affectedRound": "ROUND_1",
+      "metadata": {
+        "round": "ROUND_1",
+        "reason": "Valid administrator reset test verification",
+        "ballotsAffected": 0,
+        "tokensAffected": 0,
+        "candidatePoolCount": 10,
+        "previousState": "DRAFT",
+        "newState": "DRAFT",
+        "timestamp": "2026-10-06T07:44:15.547Z"
+      },
+      "previousEntryHash": "8ac53d23dadea380347112f9375cc806c6a63f95685dc5022c8aac097055725b",
+      "entryHash": "0f7ff6380d164d921084a73b9b8c29c77e66157f6cb11fb639fed12ab20f9178"
+    },
+    {
+      "id": "audit_1791272655556_15c4cf",
+      "timestamp": "2026-10-06T07:44:15.556Z",
+      "adminUser": "test_admin",
+      "action": "ROUND_RESET",
+      "stateBefore": "DRAFT",
+      "stateAfter": "DRAFT",
+      "affectedRound": "ROUND_1",
+      "metadata": {
+        "round": "ROUND_1",
+        "reason": "Testing Round 1 isolation",
+        "ballotsAffected": 0,
+        "tokensAffected": 0,
+        "candidatePoolCount": 10,
+        "previousState": "DRAFT",
+        "newState": "DRAFT",
+        "timestamp": "2026-10-06T07:44:15.556Z"
+      },
+      "previousEntryHash": "0f7ff6380d164d921084a73b9b8c29c77e66157f6cb11fb639fed12ab20f9178",
+      "entryHash": "ff0ac8b3c5e997ddad1447be791b69b73f5f37473802722762d1329955dcb557"
+    },
+    {
+      "id": "audit_1791272655558_d2d336",
+      "timestamp": "2026-10-06T07:44:15.558Z",
+      "adminUser": "test_admin",
+      "action": "Tie Resolved for IZI Makai Pi",
+      "stateBefore": "DRAFT",
+      "stateAfter": "DRAFT",
+      "affectedCandidateId": "cand_a_01",
+      "affectedCandidateName": "Pa. Pau Lam Lian",
+      "affectedRound": "ROUND_1",
+      "metadata": {
+        "method": "COMMITTEE_DRAW",
+        "notes": "Official committee public drawing witnessed by election monitors",
+        "tiedCandidates": [
+          "cand_a_01",
+          "cand_a_02"
+        ]
+      },
+      "previousEntryHash": "ff0ac8b3c5e997ddad1447be791b69b73f5f37473802722762d1329955dcb557",
+      "entryHash": "cfdb304f65b68b8fc9452777ee5d2ffbcf901107d9dbdea37b3cc88fee7257ab"
+    },
+    {
+      "id": "audit_1791272666960_407718",
+      "timestamp": "2026-10-06T07:44:26.960Z",
+      "adminUser": "admin",
+      "action": "Tie Resolved for IZI Makai Pi",
+      "stateBefore": "DRAFT",
+      "stateAfter": "DRAFT",
+      "affectedCandidateId": "cand_a_01",
+      "affectedCandidateName": "Pa. Pau Lam Lian",
+      "affectedRound": "ROUND_1",
+      "metadata": {
+        "method": "COMMITTEE_DRAW",
+        "notes": "Notes here",
+        "tiedCandidates": [
+          "cand_a_01",
+          "cand_a_02"
+        ]
+      },
+      "previousEntryHash": "cfdb304f65b68b8fc9452777ee5d2ffbcf901107d9dbdea37b3cc88fee7257ab",
+      "entryHash": "329fd3d1d6460d3dbcddf5d7097d6ec894110993f5a91f02f79fb419623d1b8a"
+    },
+    {
+      "id": "audit_1791272679366_49d31c",
+      "timestamp": "2026-10-06T07:44:39.366Z",
+      "adminUser": "admin",
+      "action": "Tie Resolved for IZI Makai Pi",
+      "stateBefore": "DRAFT",
+      "stateAfter": "DRAFT",
+      "affectedCandidateId": "cand_a_01",
+      "affectedCandidateName": "Pa. Pau Lam Lian",
+      "affectedRound": "ROUND_1",
+      "metadata": {
+        "method": "COMMITTEE_DRAW",
+        "notes": "Notes here",
+        "tiedCandidates": [
+          "cand_a_01",
+          "cand_a_02"
+        ]
+      },
+      "previousEntryHash": "329fd3d1d6460d3dbcddf5d7097d6ec894110993f5a91f02f79fb419623d1b8a",
+      "entryHash": "0fa8dbfb7e830b4b2b645c0351aea57d379fba0daebba8e855a88479616bc576"
+    },
+    {
+      "id": "audit_1791272715328_65624e",
+      "timestamp": "2026-10-06T07:45:15.328Z",
+      "adminUser": "test_admin",
+      "action": "ROUND_RESET",
+      "stateBefore": "DRAFT",
+      "stateAfter": "DRAFT",
+      "affectedRound": "ROUND_1",
+      "metadata": {
+        "round": "ROUND_1",
+        "reason": "Valid administrator reset test verification",
+        "ballotsAffected": 0,
+        "tokensAffected": 0,
+        "candidatePoolCount": 10,
+        "previousState": "DRAFT",
+        "newState": "DRAFT",
+        "timestamp": "2026-10-06T07:45:15.328Z"
+      },
+      "previousEntryHash": "0fa8dbfb7e830b4b2b645c0351aea57d379fba0daebba8e855a88479616bc576",
+      "entryHash": "5db221505709d039e5c332a270cba771622bbf7c1b2fd644e78050f96cd32cff"
+    },
+    {
+      "id": "audit_1791272715336_0fea4a",
+      "timestamp": "2026-10-06T07:45:15.336Z",
+      "adminUser": "test_admin",
+      "action": "ROUND_RESET",
+      "stateBefore": "DRAFT",
+      "stateAfter": "DRAFT",
+      "affectedRound": "ROUND_1",
+      "metadata": {
+        "round": "ROUND_1",
+        "reason": "Testing Round 1 isolation",
+        "ballotsAffected": 0,
+        "tokensAffected": 0,
+        "candidatePoolCount": 10,
+        "previousState": "DRAFT",
+        "newState": "DRAFT",
+        "timestamp": "2026-10-06T07:45:15.336Z"
+      },
+      "previousEntryHash": "5db221505709d039e5c332a270cba771622bbf7c1b2fd644e78050f96cd32cff",
+      "entryHash": "f117a6c109fdfc21091a2c1031240ed32e187bfe114687553ccba1cbac9ae295"
+    },
+    {
+      "id": "audit_1791272715339_52ed29",
+      "timestamp": "2026-10-06T07:45:15.339Z",
+      "adminUser": "test_admin",
+      "action": "Tie Resolved for IZI Makai Pi",
+      "stateBefore": "DRAFT",
+      "stateAfter": "DRAFT",
+      "affectedCandidateId": "cand_a_01",
+      "affectedCandidateName": "Pa. Pau Lam Lian",
+      "affectedRound": "ROUND_1",
+      "metadata": {
+        "method": "COMMITTEE_DRAW",
+        "notes": "Official committee public drawing witnessed by election monitors",
+        "tiedCandidates": [
+          "cand_a_01",
+          "cand_a_02"
+        ]
+      },
+      "previousEntryHash": "f117a6c109fdfc21091a2c1031240ed32e187bfe114687553ccba1cbac9ae295",
+      "entryHash": "153e6e3bff615d607828266ce7adae043fb8d4d9e18e3495daf5f0851cfb03bf"
+    },
+    {
+      "id": "audit_1791272751699_105418",
+      "timestamp": "2026-10-06T07:45:51.699Z",
+      "adminUser": "test_admin",
+      "action": "ROUND_RESET",
+      "stateBefore": "DRAFT",
+      "stateAfter": "DRAFT",
+      "affectedRound": "ROUND_1",
+      "metadata": {
+        "round": "ROUND_1",
+        "reason": "Valid administrator reset test verification",
+        "ballotsAffected": 0,
+        "tokensAffected": 0,
+        "candidatePoolCount": 10,
+        "previousState": "DRAFT",
+        "newState": "DRAFT",
+        "timestamp": "2026-10-06T07:45:51.699Z"
+      },
+      "previousEntryHash": "153e6e3bff615d607828266ce7adae043fb8d4d9e18e3495daf5f0851cfb03bf",
+      "entryHash": "a58b9e35cd1862e1c431064021bbf83ac1ef9aa41b8b8b00199e0af2d63f2c9f"
+    },
+    {
+      "id": "audit_1791272751707_a2cc80",
+      "timestamp": "2026-10-06T07:45:51.707Z",
+      "adminUser": "test_admin",
+      "action": "ROUND_RESET",
+      "stateBefore": "DRAFT",
+      "stateAfter": "DRAFT",
+      "affectedRound": "ROUND_1",
+      "metadata": {
+        "round": "ROUND_1",
+        "reason": "Testing Round 1 isolation",
+        "ballotsAffected": 0,
+        "tokensAffected": 0,
+        "candidatePoolCount": 10,
+        "previousState": "DRAFT",
+        "newState": "DRAFT",
+        "timestamp": "2026-10-06T07:45:51.707Z"
+      },
+      "previousEntryHash": "a58b9e35cd1862e1c431064021bbf83ac1ef9aa41b8b8b00199e0af2d63f2c9f",
+      "entryHash": "15358f2c83c171aa8057c7d24a8c98aa8791e9b23c5ada1f54ef5c9dec8e33b0"
+    },
+    {
+      "id": "audit_1791272751710_41ccd6",
+      "timestamp": "2026-10-06T07:45:51.710Z",
+      "adminUser": "test_admin",
+      "action": "Tie Resolved for IZI Makai Pi",
+      "stateBefore": "DRAFT",
+      "stateAfter": "DRAFT",
+      "affectedCandidateId": "cand_a_01",
+      "affectedCandidateName": "Pa. Pau Lam Lian",
+      "affectedRound": "ROUND_1",
+      "metadata": {
+        "method": "COMMITTEE_DRAW",
+        "notes": "Official committee public drawing witnessed by election monitors",
+        "tiedCandidates": [
+          "cand_a_01",
+          "cand_a_02"
+        ]
+      },
+      "previousEntryHash": "15358f2c83c171aa8057c7d24a8c98aa8791e9b23c5ada1f54ef5c9dec8e33b0",
+      "entryHash": "c0bbb381297e5b003f943216a55f8a5b829ee413f9aa55439cab4a91fcff4d95"
+    },
+    {
+      "id": "audit_1791272780035_a8db3c",
+      "timestamp": "2026-10-06T07:46:20.035Z",
+      "adminUser": "admin",
+      "action": "ROUND_RESET",
+      "stateBefore": "DRAFT",
+      "stateAfter": "DRAFT",
+      "affectedRound": "ROUND_1",
+      "metadata": {
+        "round": "ROUND_1",
+        "reason": "Testing live production reset execution",
+        "ballotsAffected": 0,
+        "tokensAffected": 0,
+        "candidatePoolCount": 10,
+        "previousState": "DRAFT",
+        "newState": "DRAFT",
+        "timestamp": "2026-10-06T07:46:20.035Z"
+      },
+      "previousEntryHash": "c0bbb381297e5b003f943216a55f8a5b829ee413f9aa55439cab4a91fcff4d95",
+      "entryHash": "5883f274cf4036595eeb38eec03995bac35fd8e285a05a444cb2e6da9a427774"
+    }
+  ],
+  "results": {},
+  "archivedInstances": []
+}

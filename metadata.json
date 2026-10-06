@@ -1,0 +1,6 @@
+{
+  "name": "IZI 2027-2028 MAKAI DING KI TEL NA",
+  "description": "Production-grade, auditable, phase-based community election management and anonymous voting system with verifiable results and state-machine governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
